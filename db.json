@@ -33,7 +33,7 @@
          "title":"Ab nach Zurich!",
          "image":"https://cdn.zuerich.com/sites/default/files/styles/box_teaser_small/public/teaserimage/web_zurich_summer_limmat_4x3_01.jpg?itok=IcQfsGi4&timestamp=1401090561",
          "clicklink":"https://www.zuerich.com/de",
-         "button-text":"Ab nach Zurich!",
+         "buttontext":"Ab nach Zurich!",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
@@ -41,7 +41,7 @@
          "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
          "image":"URL zum Bild",
          "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
-         "button-text":"Button Beschriftung",
+         "buttontext":"Button Beschriftung",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
@@ -49,7 +49,7 @@
          "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
          "image":"URL zum Bild",
          "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
-         "button-text":"Button Beschriftung",
+         "buttontext":"Button Beschriftung",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
@@ -57,7 +57,7 @@
          "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
          "image":"URL zum Bild",
          "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
-         "button-text":"Button Beschriftung",
+         "buttontext":"Button Beschriftung",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
@@ -65,7 +65,7 @@
          "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
          "image":"URL zum Bild",
          "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
-         "button-text":"Button Beschriftung",
+         "buttontext":"Button Beschriftung",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       }
