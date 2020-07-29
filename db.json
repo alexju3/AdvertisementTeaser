@@ -38,10 +38,10 @@
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
       {
-         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-         "image":"URL zum Bild",
-         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
-         "buttontext":"Button Beschriftung",
+         "title":"Ab nach Österreich",
+         "image":"https://www.ab-in-den-urlaub.de/magazin/wp-content/uploads/2020/05/1589816269_%C3%96sterreich.jpg",
+         "clicklink":"https://de.wikipedia.org/wiki/%C3%96sterreich",
+         "buttontext":"Ab nach Österreich?",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
       },
