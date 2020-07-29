@@ -1,58 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "teaser_1": 
-	[
-		{
-		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-		   "image": "URL zum Bild", 
-		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
-		   "button-text": "Button Beschriftung",
-		   "position": "Position der Werbefläche im Kundenportal",
-		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
-		},
-		{
-		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-		   "image": "URL zum Bild", 
-		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
-		   "button-text": "Button Beschriftung",
-		   "position": "Position der Werbefläche im Kundenportal",
-		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
-		},
-		{
-		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-		   "image": "URL zum Bild", 
-		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
-		   "button-text": "Button Beschriftung",
-		   "position": "Position der Werbefläche im Kundenportal",
-		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
-		},
-		{
-		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-		   "image": "URL zum Bild", 
-		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
-		   "button-text": "Button Beschriftung",
-		   "position": "Position der Werbefläche im Kundenportal",
-		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
-		},
-		{
-		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
-		   "image": "URL zum Bild", 
-		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
-		   "button-text": "Button Beschriftung",
-		   "position": "Position der Werbefläche im Kundenportal",
-		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
-		}
-	],
-
+   "posts":[
+      {
+         "id":1,
+         "title":"Post 1"
+      },
+      {
+         "id":2,
+         "title":"Post 2"
+      },
+      {
+         "id":3,
+         "title":"Post 3"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "teaser_1":[
+      {
+         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+         "image":"URL zum Bild",
+         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "button-text":"Button Beschriftung",
+         "position":"Position der Werbefläche im Kundenportal",
+         "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
+      },
+      {
+         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+         "image":"URL zum Bild",
+         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "button-text":"Button Beschriftung",
+         "position":"Position der Werbefläche im Kundenportal",
+         "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
+      },
+      {
+         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+         "image":"URL zum Bild",
+         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "button-text":"Button Beschriftung",
+         "position":"Position der Werbefläche im Kundenportal",
+         "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
+      },
+      {
+         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+         "image":"URL zum Bild",
+         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "button-text":"Button Beschriftung",
+         "position":"Position der Werbefläche im Kundenportal",
+         "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
+      },
+      {
+         "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+         "image":"URL zum Bild",
+         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "button-text":"Button Beschriftung",
+         "position":"Position der Werbefläche im Kundenportal",
+         "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
+      }
+   ]
 }
