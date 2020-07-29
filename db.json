@@ -10,5 +10,49 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "teaser_1": 
+	[
+		{
+		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+		   "image": "URL zum Bild", 
+		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
+		   "button-text": "Button Beschriftung",
+		   "position": "Position der Werbefläche im Kundenportal",
+		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
+		},
+		{
+		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+		   "image": "URL zum Bild", 
+		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
+		   "button-text": "Button Beschriftung",
+		   "position": "Position der Werbefläche im Kundenportal",
+		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
+		},
+		{
+		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+		   "image": "URL zum Bild", 
+		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
+		   "button-text": "Button Beschriftung",
+		   "position": "Position der Werbefläche im Kundenportal",
+		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
+		},
+		{
+		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+		   "image": "URL zum Bild", 
+		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
+		   "button-text": "Button Beschriftung",
+		   "position": "Position der Werbefläche im Kundenportal",
+		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
+		},
+		{
+		   "title": "Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
+		   "image": "URL zum Bild", 
+		   "clicklink": "URL auf die der Kunde beim Klick umgeleitet werden soll", 
+		   "button-text": "Button Beschriftung",
+		   "position": "Position der Werbefläche im Kundenportal",
+		   "start-width": "Ab welcher Seitenbreite soll das Bild angezeigt werden"
+		}
+	],
+
 }
