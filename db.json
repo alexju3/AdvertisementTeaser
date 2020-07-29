@@ -32,7 +32,7 @@
       {
          "title":"Überschrift zur leichteren Einordnung um welches Werbeformat es sich handelt",
          "image":"https://www.tierwelt.ch/sites/default/files/styles/header_guide/public/images/neue-katze-anschaffen.jpg?h=38868893&itok=zb6S8hAD",
-         "clicklink":"URL auf die der Kunde beim Klick umgeleitet werden soll",
+         "clicklink":"https://lmgtfy.com/?q=json",
          "button-text":"Button Beschriftung",
          "position":"Position der Werbefläche im Kundenportal",
          "start-width":"Ab welcher Seitenbreite soll das Bild angezeigt werden"
